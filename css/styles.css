@@ -1,4 +1,4 @@
-body{background-color: cornflowerblue;}
+body{background-color:blueviolet;}
 body {
 	background: #04A1BF;
 	text-align: center;
@@ -9,7 +9,12 @@ body {
 	margin: 30px 0px;
 	font-weight: bold;
 }
-
+#head{
+	text-align: center;
+	text-emphasis: bold;
+	color: cornsilk;
+	font-size: 100px;
+}
 h1 {
 	color: #ffffff;
 	text-transform: uppercase;
